@@ -51,7 +51,6 @@ for i in `seq 5`; do
 	    &> output/reveal-cheap-$i.out
 	echo "Ran reveal test with txn"
 done
-exit
 
 ##############################
 # STATS TEST
